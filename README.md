@@ -2,7 +2,7 @@
 
 Full-stack project for **WebThism**: React frontend, Express backend, SQLite database.
 
-**Repository:** https://github.com/Supriya2098/webthism-week1-hello-world
+**Repository:** https://github.com/Supriya2098/webthism-full-stack-project
 
 ## Week 1 — Hello World
 
@@ -83,7 +83,7 @@ Open **http://localhost:3000**
 
 ## Submission
 
-- **GitHub:** https://github.com/Supriya2098/webthism-week1-hello-world
+- **GitHub:** https://github.com/Supriya2098/webthism-full-stack-project
 - **WebThism LinkedIn:** https://www.linkedin.com/company/webthism
 
 ## Author
